@@ -11,6 +11,34 @@
   </a>
 </div>
 
+<div align=center>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=prestasicode&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=prestasicode&theme=tokyonight&hide_border=true" />
+</div>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prestasicode&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prestasicode&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align=center>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=joshxfi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=joshxfi&theme=tokyonight&hide_border=true" />
+</div>
+
+<br>
+
+<!-- <div align=center>
+  
+  | ![](https://komarev.com/ghpvc/?username=joshxfi&color=blue) |
+  |---|
+  *started counting on 9/6/21*
+  
+</div>
+
+<!-- <div align=center>
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshxfi&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+</div> -->
+
+
+
+

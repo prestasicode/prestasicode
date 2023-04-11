@@ -13,9 +13,9 @@
 </div>
 ---
 <div align=center>
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=prestasicode&theme=buefy&show_icons=true&hide_border=true&count_private=true" />
+  <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api?username=prestasicode&theme=buefy&show_icons=true&hide_border=true&count_private=true" />
   <img width="450"  src="https://github-readme-streak-stats.herokuapp.com?user=prestasicode&theme=buefy&hide_border=true" />
-  <img width="325"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prestasicode&layout=compact&theme=buefy&hide_border=true" />
+  <img width="325"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prestasicode&layout=compact&theme=buefy&hide_border=true" />
 </div>
 
 
